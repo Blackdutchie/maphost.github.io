@@ -2075,11 +2075,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="-965.05361"
-     inkscape:cy="2930.1427"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1757.8661"
+     inkscape:cy="1735.019"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -32660,18 +32660,18 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Perpetua;-inkscape-font-specification:Perpetua Bold"
-       x="1204.5469"
-       y="916.28033"
+       x="1264.5469"
+       y="834.28033"
        id="text5376-1-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1204.5469"
-         y="916.28033"
+         x="1264.5469"
+         y="834.28033"
          id="tspan7603-1"
          style="font-size:18px">New </tspan><tspan
          sodipodi:role="line"
-         x="1204.5469"
-         y="938.78033"
+         x="1264.5469"
+         y="856.78033"
          id="tspan7693"
          style="font-size:18px">Vaultburrow</tspan></text>
     <text
@@ -33459,7 +33459,7 @@
        inkscape:randomized="0"
        d="m 1690.3389,372.82853 0.8388,-12.03858 -5.7885,-10.58884 12.0385,0.83884 10.5889,-5.78858 -0.8389,12.03858 5.7886,10.58883 -12.0386,-0.83883 z" />
     <path
-       transform="translate(-444.46973,488.65835)"
+       transform="translate(-451.96973,487.15835)"
        sodipodi:type="star"
        style="color:#000000;fill:url(#radialGradient7621);fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3936-3-3-6-7"
@@ -33729,7 +33729,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1561.3802,683.24845 -11.5083,-0.68351 -10.0585,5.63325 0.6835,-11.50825 -5.6332,-10.0585 11.5082,0.6835 10.0586,-5.63325 -0.6836,11.50825 z"
-       transform="translate(-985.20991,3224.1969)" />
+       transform="translate(-1009.2099,3218.6969)" />
     <path
        sodipodi:type="star"
        style="color:#000000;fill:url(#radialGradient8133);fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -34190,17 +34190,30 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Perpetua;-inkscape-font-specification:Sans Bold"
-       x="557.03003"
-       y="3852.9175"
+       x="556.53003"
+       y="3884.9175"
        id="text10435"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10437"
-         x="557.03003"
-         y="3852.9175">Sunkissed</tspan><tspan
+         x="556.53003"
+         y="3884.9175">The Sunkissed</tspan><tspan
          sodipodi:role="line"
-         x="557.03003"
-         y="3875.4175"
+         x="556.53003"
+         y="3907.4175"
          id="tspan10439">Skies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Perpetua;-inkscape-font-specification:Sans Bold"
+       x="1519.5"
+       y="5075.4507"
+       id="text10445"
+       sodipodi:linespacing="125%"
+       transform="translate(-1604.2826,-2435.0131)"><tspan
+         sodipodi:role="line"
+         id="tspan10447"
+         x="1519.5"
+         y="5075.4507"
+         style="font-size:24px">Anemoia</tspan></text>
   </g>
 </svg>
